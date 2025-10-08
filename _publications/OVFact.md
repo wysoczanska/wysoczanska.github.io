@@ -8,7 +8,6 @@ abstract: "Large vision-language models (VLMs) often struggle to generate long a
 
 authors: '<a href="https://wysoczanska.github.io/">Monika Wysoczańska</a>, <a href="https://cs.stanford.edu/~shyamal/">Shyamal Buch</a>, <a href="https://anuragarnab.github.io/">Anurag Arnab</a>, <a href="https://cordeliaschmid.github.io/">Cordelia Schmid</a>'
 
-
 bibtex: "@article{wysoczanska2025ovfact,
   title={OVFact: Measuring and Improving Open-Vocabulary Factuality for Long Caption Models},
   author={Wysocza{\'n}ska, Monika and Buch, Shyamal and Arnab, Anurag and Schmid, Cordelia},
