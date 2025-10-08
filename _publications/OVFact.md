@@ -10,7 +10,7 @@ authors: '<a href="https://wysoczanska.github.io/">Monika Wysoczańska</a>, <a h
 
 bibtex: "@article{wysoczanska2025ovfact,
   title={OVFact: Measuring and Improving Open-Vocabulary Factuality for Long Caption Models},
-  author={Wysocza{\'n}ska, Monika and Buch, Shyamal and Arnab, Anurag and Schmid, Cordelia},
+  author={Wysocza{\\'{n}}ska, Monika and Buch, Shyamal and Arnab, Anurag and Schmid, Cordelia},
   journal={EMNLP Findings},
   year={2025}
 }"
