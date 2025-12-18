@@ -21,7 +21,9 @@ I obtained my master's degree in Computer Science at Warsaw University of Techno
 
 News
 ======
-- 07/2025: I am now a Postodoctroal researcher in [valeo.ai](https://valeoai.github.io/blog/)!
+- 11/2025: My Google DeepMind intenrship work ['OVFact: Measuring and Improving Open-Vocabulary Factuality for Long Caption Models'](https://arxiv.org/abs/2507.19262) has been accepted to EMNLP 2025!
+- 09/2025: I've successfully defended my PhD thesis entitles: 'Task Adaptation Strategies for Vision-Language Models' with **summa cum laude** in front of renowned jury members: [Hilde Kuehne (Univ. of Tuebingen)](https://hildekuehne.github.io/), [Piotr Bojanowski (Meta FAIR)](https://scholar.google.com/citations?user=lJ_oh2EAAAAJ&hl=fr), [Jaroslaw Was (AGH)][https://home.agh.edu.pl/~jarek/].
+- 07/2025: I am now a Postdoctroal researcher in [valeo.ai](https://valeoai.github.io/blog/), and a part of [ELLIOT](https://www.elliot-ai.eu/) consortium!
 - 05/2025: Contrastive Concepts accepted to [TMLR](https://openreview.net/pdf?id=wyOv4kGkbU)!
 - 07/2024: I am very excited to start as a Student Researcher at Google DeepMind! I'll be working in the team led by [Cordelia Schmid](https://cordeliaschmid.github.io/) in Grenoble ⛰️
 - 07/2024: Gave a talk on Open-Vocabulary Semantic Segmentation in my favourite academic lab - [Imagine](https://imagine-lab.enpc.fr/) ❤️
