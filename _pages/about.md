@@ -14,7 +14,7 @@ redirect_from:
 Cześć!
 ======
 
-I am a Postdoctoral researcher at [valeo.ai](https://valeoai.github.io/blog/) working on groudning capabilities of VLMs. I completed my PhD in Computer Vision and Machine Learning in the [Computer Vision Lab](https://cvlab.ii.pw.edu.pl/) of [Warsaw University of Technology](https://eng.pw.edu.pl/). I have also been lucky enough to spend some time as a visiting PhD student in [valeo.ai](https://valeoai.github.io/blog/) team in Paris and with [Imagine group](http://imagine.enpc.fr/) of Ecole des Ponts. I also interned at [Google Deepmind](https://deepmind.google/) in the team led by [Cordelia Schmid](https://cordeliaschmid.github.io/) and at [Booking.com](https://www.booking.com/)
+I am a Postdoctoral researcher at [valeo.ai](https://valeoai.github.io/blog/) on multimodal alignment. I completed my PhD in Computer Vision and Machine Learning in the [Computer Vision Lab](https://cvlab.ii.pw.edu.pl/) of [Warsaw University of Technology](https://eng.pw.edu.pl/). I have also been lucky enough to spend some time as a visiting PhD student in [valeo.ai](https://valeoai.github.io/blog/) team in Paris and with [Imagine group](http://imagine.enpc.fr/) of Ecole des Ponts. I also interned at [Google Deepmind](https://deepmind.google/) in the team led by [Cordelia Schmid](https://cordeliaschmid.github.io/) and at [Booking.com](https://www.booking.com/)
 
 I obtained my master's degree in Computer Science at Warsaw University of Technology and my BSc from Wroclaw University of Science and Technology in Systems Engineering.
 
@@ -22,7 +22,7 @@ I obtained my master's degree in Computer Science at Warsaw University of Techno
 News
 ======
 - 11/2025: My Google DeepMind intenrship work ['OVFact: Measuring and Improving Open-Vocabulary Factuality for Long Caption Models'](https://arxiv.org/abs/2507.19262) has been accepted to EMNLP 2025!
-- 09/2025: I've successfully defended my PhD thesis entitles: 'Task Adaptation Strategies for Vision-Language Models' with **summa cum laude** in front of renowned jury members: [Hilde Kuehne (Univ. of Tuebingen)](https://hildekuehne.github.io/), [Piotr Bojanowski (Meta FAIR)](https://scholar.google.com/citations?user=lJ_oh2EAAAAJ&hl=fr), [Jaroslaw Was (AGH)][https://home.agh.edu.pl/~jarek/].
+- 09/2025: I've successfully defended my PhD thesis entitles: 'Task Adaptation Strategies for Vision-Language Models' with **summa cum laude** in front of renowned jury members: [Hilde Kuehne (Univ. of Tuebingen)](https://hildekuehne.github.io/), [Piotr Bojanowski (Meta FAIR)](https://scholar.google.com/citations?user=lJ_oh2EAAAAJ&hl=fr), [Jaroslaw Was (AGH)](https://home.agh.edu.pl/~jarek/).
 - 07/2025: I am now a Postdoctroal researcher in [valeo.ai](https://valeoai.github.io/blog/), and a part of [ELLIOT](https://www.elliot-ai.eu/) consortium!
 - 05/2025: Contrastive Concepts accepted to [TMLR](https://openreview.net/pdf?id=wyOv4kGkbU)!
 - 07/2024: I am very excited to start as a Student Researcher at Google DeepMind! I'll be working in the team led by [Cordelia Schmid](https://cordeliaschmid.github.io/) in Grenoble ⛰️
